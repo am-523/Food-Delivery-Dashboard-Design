@@ -31,7 +31,7 @@ Food Delivery Dashboard</h3>
 
 
 # Tutorial 📸
-- <a href="https://youtu.be/EPM9_1Tp-rE">
+- <a href="https://youtu.be/Kjg-RieNArc">
 			Youtube
 		</a> 
 
